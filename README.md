@@ -2,7 +2,7 @@
 - This is the project of Computer Vision class.
 
 ## Description
-1) 4, 8 COnnectivity
+1) 4, 8 Connectivity
 2) Hough Circle Transform
 3) Interpolation
 4) Morphology
